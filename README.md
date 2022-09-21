@@ -3,7 +3,7 @@
 ### Sobre mim
 - 🖥️📚 Cursando Bacharelado em TI pela Universidade Federal do Rio Grande do Norte.
 - 🎂🌱 Tenho 19 anos.
-- 🔴🏃‍♂️ Futuro engenheiro de software.
+- 🔴📘 Estudo desenvolvimento web.
 
 ### Ferramentas e Tecnologias
 
