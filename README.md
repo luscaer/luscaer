@@ -1,9 +1,16 @@
-## Olá!!! eu sou Lucas Ribeiro
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9d1d9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lucas+Emanuel!;I'm+20+years+old;I'm+from+Brazil;I'm+about+to+graduate+in+IT.;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luscaer&show_icons=true&count_private=true&hide_border=true&title_color=B0C4DE&icon_color=B0C4DE&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Emanuel github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luscaer&layout=compact&hide_border=true&title_color=B0C4DE&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
 ### Sobre mim
-- 🖥️📚 Cursando Bacharelado em TI pela Universidade Federal do Rio Grande do Norte.
-- 🎂🌱 Tenho 19 anos.
-- 🔴📘 Estudo desenvolvimento web.
+- 🖥️📚 Cursando Bacharelado em Tecnologia da Informação pela Universidade Federal do Rio Grande do Norte.
+- 🎂🌱 Tenho 20 anos.
+- 🔴📘 Estudo desenvolvimento web e programação em JAVA.
 
 ### Ferramentas e Tecnologias
 
@@ -29,3 +36,5 @@
   ![Snake animation](https://github.com/luscaer/luscaer/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
