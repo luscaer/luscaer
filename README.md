@@ -13,7 +13,7 @@
 
 ### Sobre mim
 - 🖥️📚 Cursando Bacharelado em Tecnologia da Informação pela UFRN.
-- 🎂🌱 Tenho 21 anos.
+- 🎂🌱 Tenho 22 anos.
 - 🔴📘 Estudo desenvolvimento web e programação em JAVA.
 
 ### Ferramentas e Tecnologias
