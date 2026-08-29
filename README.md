@@ -17,11 +17,11 @@
 
 - 🎓 Cursando Bacharelado em **Tecnologia da Informação** pela **UFRN**
 - 🌍 Brasileiro, apaixonado por tecnologia e inovação
-- 🎂 22 anos
+- 🎂 23 anos
 - 💡 Estudando **Desenvolvimento Web Full Stack** e **Inteligência Artificial**
 - ☁️ Explorando o universo de **Cloud Computing** com AWS
 - 🚀 Sempre buscando aprender e construir coisas novas
-- 🎯 Em breve formando — próximo passo: o mercado tech!
+- 🎯 Em breve formando!
 
 <br clear="right"/>
 
